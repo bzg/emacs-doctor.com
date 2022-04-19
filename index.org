@@ -1,0 +1,48 @@
+#+title: Ateliers Emacs
+#+author: Bastien Guerry
+
+Nous sommes quelques utilisateurs de [[https://www.gnu.org/software/emacs/][GNU Emacs]] à nous réunir en visio
+ou en présentiel pour apprendre les uns des autres : c'est ouvert aux
+non-emacsiens, aux débutants, aux utilisateurs avancés et aux
+vimistes !
+
+* Liste de discussion et forum
+
+Vous pouvez vous inscrire sur [[https://lists.sr.ht/~bzg/emacsfr][la liste de discussion]].
+
+Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger.
+
+* Prochaines rencontres
+
+- **Paris : jeudi 5 mai 2022 de 17h30 à 19h en visio**
+- **Paris : mardi 7 juin 2022 de 17h30 à 19h en visio**
+
+Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]], gentiment
+fournie par [[https://fosshost.org/][fosshost.org]].
+
+Nous tentons d'annoncer les événements sur [[https://mobilizon.fr/@communaute_emacs_francophone][ce groupe de la communauté
+francophone d'Emacs]] sur mobilizon.fr.
+
+* Comment je m'inscris à un atelier ?
+
+** Pour Paris
+
+Nous faisons des rencontres en ligne.  Il y a parfois des rencontres
+physiques chez [[http://inno3.fr][inno3.fr]] au 137 Boulevard de Magenta 75010 Paris ([[http://www.openstreetmap.org/#map=16/48.8818/2.3514][plan]])
+de 19h à 22h.
+
+Si vous venez pour la première fois à un atelier IRL, envoyez un mot à
+=bzg@gnu.org=.  Pour la visio, vous pouvez simplement débarquer.
+
+** Pour Montpellier
+
+Envoyez un petit mot à `emacsem-owner@movoscope.org` et vous serez
+inscrit.
+
+* Rencontres passées
+
+Nous gardons parfois des notes des soirées passées sur [[https://gitlab.com/bzg2/emacsparis/blob/master/README.org][ce dépôt]].
+
+* Licence
+
+Le contenu de ce site est publié sous licence [[https://creativecommons.org/licenses/by/4.0/][Creative Commons BY 4.0]].
