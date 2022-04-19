@@ -42,7 +42,3 @@ inscrit.
 * Rencontres passées
 
 Nous gardons parfois des notes des soirées passées sur [[https://gitlab.com/bzg2/emacsparis/blob/master/README.org][ce dépôt]].
-
-* Licence
-
-Le contenu de ce site est publié sous licence [[https://creativecommons.org/licenses/by/4.0/][Creative Commons BY 4.0]].
