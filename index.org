@@ -1,22 +1,25 @@
-#+title: Ateliers Emacs
+#+title: Ateliers francophones GNU Emacs
 #+author: Bastien Guerry
 #+options: toc:nil html-preamble:nil html-postamble:nil num:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="index.css" />
 
 Nous sommes quelques utilisateurs de [[https://www.gnu.org/software/emacs/][GNU Emacs]] à nous réunir en visio
 ou en présentiel pour apprendre les uns des autres : c'est ouvert aux
 non-emacsiens, aux débutants, aux utilisateurs avancés et aux
 vimistes !
 
-* Liste de discussion et forum
+* Liste de discussion
 
 Vous pouvez vous inscrire sur [[https://lists.sr.ht/~bzg/emacsfr][la liste de discussion]].
+
+* Forum
 
 Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger.
 
 * Prochaines rencontres
 
-- **Paris : jeudi 5 mai 2022 de 17h30 à 19h en visio**
-- **Paris : mardi 7 juin 2022 de 17h30 à 19h en visio**
+- Paris : jeudi 5 mai 2022 de 17h30 à 19h en visio
+- Paris : mardi 7 juin 2022 de 17h30 à 19h en visio
 
 Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]], gentiment
 fournie par [[https://fosshost.org/][fosshost.org]].
@@ -37,8 +40,7 @@ Si vous venez pour la première fois à un atelier IRL, envoyez un mot à
 
 ** Pour Montpellier
 
-Envoyez un petit mot à `emacsem-owner@movoscope.org` et vous serez
-inscrit.
+Envoyez un mot à =emacsem-owner@movoscope.org= et vous serez inscrit.
 
 * Rencontres passées
 
