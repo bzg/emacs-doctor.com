@@ -1,5 +1,6 @@
 #+title: Ateliers Emacs
 #+author: Bastien Guerry
+#+options: toc:nil html-preamble:nil html-postamble:nil num:nil
 
 Nous sommes quelques utilisateurs de [[https://www.gnu.org/software/emacs/][GNU Emacs]] à nous réunir en visio
 ou en présentiel pour apprendre les uns des autres : c'est ouvert aux
