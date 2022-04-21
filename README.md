@@ -7,7 +7,7 @@ Pour contribuer, envoyez un courriel à
 patches, vous pouvez configurer votre copie locale du dépôt en
 ajoutant un préfixe aux sujets de vos courriels :
 
-    ~$ git config format.subjectPrefix 'PATCH subscribe'
+    ~$ git config format.subjectPrefix 'PATCH emacs-doctor.com'
 
 # Licence
 
