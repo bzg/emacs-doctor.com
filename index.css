@@ -1,5 +1,16 @@
+:root {
+    color-scheme: light dark;
+}
+
 body {
-    width: 70%; 
+    width: 70%;
     margin: auto;
     font-size: 12pt;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: white;
+        color: black;
+    }
 }
