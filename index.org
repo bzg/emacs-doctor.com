@@ -1,6 +1,6 @@
 #+title: Ateliers francophones GNU Emacs
 #+author: Bastien Guerry
-#+options: toc:nil html-preamble:nil html-postamble:nil num:nil
+#+options: toc:nil html-preamble:nil html-postamble:nil num:nil html-style:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="index.css" />
 
 Nous sommes quelques utilisateurs de [[https://www.gnu.org/software/emacs/][GNU Emacs]] à nous réunir en visio
