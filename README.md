@@ -6,8 +6,8 @@ Pour contribuer, envoyez un courriel à
 [~bzg/dev@lists.sr.ht](mailto:~bzg/dev@lists.sr.ht).
 
 Pour envoyer un patch via [git send-email](https://git-send-email.io),
-configurez votre copie locale du dépôt en ajoutant ce préfixe aux
-sujets de vos courriels :
+ajoutez ce préfixe aux sujets de vos courriels dans votre copie locale
+du dépôt :
 
     ~$ git config format.subjectPrefix 'PATCH emacs-doctor.com'
 
