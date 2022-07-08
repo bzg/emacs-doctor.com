@@ -18,8 +18,11 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : mardi 7 juin 2022 de 17h30 à 19h en visio
 - Paris : jeudi 7 juillet 2022 de 17h30 à 19h en visio
+- Paris : jeudi 1 septembre 2022 de 17h30 à 19h en visio
+- Paris : mardi 4 octobre 2022 de 17h30 à 19h en visio
+- Paris : jeudi 3 novembre 2022 de 17h30 à 19h en visio
+- Paris : mardi 6 décembre 2022 de 17h30 à 19h en visio
 
 Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]], gentiment
 fournie par [[https://fosshost.org/][fosshost.org]].
