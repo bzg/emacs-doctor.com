@@ -25,9 +25,6 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]], gentiment
 fournie par [[https://fosshost.org/][fosshost.org]].
 
-Nous tentons d'annoncer les événements sur [[https://mobilizon.fr/@communaute_emacs_francophone][ce groupe de la communauté
-francophone d'Emacs]] sur mobilizon.fr.
-
 * Comment je m'inscris à un atelier ?
 
 ** Pour Paris
