@@ -1,0 +1,5 @@
+* Atelier Emacs - salle Snowden
+  SCHEDULED: <2022-12-06 mar. 18:00-22:00>
+  :PROPERTIES:
+  :LOCATION: Inno3
+  :END:
