@@ -2,19 +2,18 @@
 
 ":"; exec emacs --quick --script "$0" -- "$@" # -*- mode: emacs-lisp; lexical-binding: t; -*-
 
-(with-temp-buffer
- (find-file "meetups.org")
- (org-mode)
- (org-icalendar-export-to-ics))
+(require 'org)
+(require 'ox-html)
+(require 'ox-icalendar)
 
-(dolist (org-file (directory-files-recursively default-directory "\\.org$"))
-  (let ((html-file (concat (file-name-directory org-file)
-			   (file-name-base org-file) ".html")))
-    (if (and (file-exists-p html-file)
-             (file-newer-than-file-p html-file org-file))
-	(message " [skipping] unchanged %s" org-file)
-      (message "[exporting] %s" (file-relative-name org-file default-directory))
-      (with-current-buffer (find-file org-file)
-	(condition-case err
-            (org-html-export-to-html)
-          (error (message (error-message-string err))))))))
+(message "[exporting] meetups.org to meetups.ics")
+(with-current-buffer (find-file "meetups.org")
+  (condition-case err
+      (org-icalendar-export-to-ics)
+    (error (message (error-message-string err)))))
+
+(message "[exporting] index.org to index.html")
+(with-current-buffer (find-file "index.org")
+  (condition-case err
+      (org-html-export-to-html)
+    (error (message (error-message-string err)))))
