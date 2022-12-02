@@ -29,7 +29,7 @@ fournie par [[https://fosshost.org/][fosshost.org]].
 
 Nous faisons des rencontres en ligne.  Il y a parfois des rencontres
 physiques chez [[http://inno3.fr][inno3.fr]] au 137 Boulevard de Magenta 75010 Paris ([[http://www.openstreetmap.org/#map=16/48.8818/2.3514][plan]])
-de 19h à 22h.
+de 18h à 22h.
 
 Si vous venez pour la première fois à un atelier IRL, envoyez un mot à
 =bzg@gnu.org=.  Pour la visio, vous pouvez simplement débarquer.
