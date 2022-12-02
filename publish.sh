@@ -2,6 +2,10 @@
 
 ":"; exec emacs --quick --script "$0" -- "$@" # -*- mode: emacs-lisp; lexical-binding: t; -*-
 
+(with-temp-buffer
+  (find-file "meetups.org")
+  (org-icalendar-export-to-ics))
+
 (dolist (org-file (directory-files-recursively default-directory "\\.org$"))
   (let ((html-file (concat (file-name-directory org-file)
 			   (file-name-base org-file) ".html")))
