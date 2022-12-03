@@ -23,7 +23,7 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]], gentiment
 fournie par [[https://fosshost.org/][fosshost.org]].
 
-Vous pouvez télécharger le [[meetups.ics][fichier .ics avec les rendez-vous]].
+Vous pouvez télécharger le [[./meetups.ics][fichier .ics avec les rendez-vous]].
 
 * Comment je m'inscris à un atelier ?
 
