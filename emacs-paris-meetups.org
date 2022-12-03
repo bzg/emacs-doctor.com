@@ -1,6 +1,7 @@
 * Atelier Emacs à Paris
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
+  :CATEGORY: emacs-paris-meetups
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2022-12-06 mar. 18:00-22:00>
