@@ -1,6 +1,6 @@
-* Atelier Emacs - salle Snowden
-  SCHEDULED: <2022-12-06 mar. 18:00-22:00>
+* Atelier Emacs à Paris
   :PROPERTIES:
-  :LOCATION: Inno3
-  :ID:       a49d87a0-c21d-4fa2-afdb-2eb3359ddf91
+  :LOCATION: Inno3 - salle Snowden
+  :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
+  <2022-12-06 mar. 18:00-22:00>
