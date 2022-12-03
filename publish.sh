@@ -2,8 +2,8 @@
 
 ":"; exec emacs --quick --script "$0" -- "$@" # -*- mode: emacs-lisp; lexical-binding: t; -*-
 
-(message "[exporting] meetups.org to meetups.ics")
-(with-current-buffer (find-file "meetups.org")
+(message "[exporting] emacs-paris-meetups.org to emacs-paris-meetups.ics")
+(with-current-buffer (find-file "emacs-paris-meetups.org")
   (condition-case err
       (org-icalendar-export-to-ics)
     (error (message (error-message-string err)))))
