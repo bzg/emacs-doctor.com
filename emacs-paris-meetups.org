@@ -1,4 +1,4 @@
-* Atelier Emacs à Paris
+* Emacs workshop in Paris (hybrid)
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
