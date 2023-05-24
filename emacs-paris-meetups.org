@@ -6,7 +6,7 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2022-12-06 mar. 18:00-22:00>
-* Emacs workshop in Paris à Inno3
+* DONE Emacs workshop in Paris à Inno3
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
@@ -14,7 +14,7 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2023-01-05 jeu. 18:15-21:45>
-* Emacs workshop in Paris (online)
+* DONE Emacs workshop in Paris (online)
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
@@ -22,7 +22,7 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2023-02-07 mar. 17:30-19:00>
-* Emacs workshop in Paris (online)
+* DONE Emacs workshop in Paris (online)
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
@@ -30,7 +30,7 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2023-03-02 jeu. 17:30-19:00>
-* Emacs workshop in Paris (online)
+* DONE Emacs workshop in Paris (online)
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
@@ -38,7 +38,7 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2023-04-04 mar. 17:30-19:00>
-* Emacs workshop in Paris (online)
+* DONE Emacs workshop in Paris (online)
   :PROPERTIES:
   :LOCATION: Inno3 - salle Snowden
   :CATEGORY: emacs-paris-meetups
@@ -54,3 +54,11 @@
   :DESCRIPTION: Se retrouver IRL pour parler Emacs
   :END:
   <2023-06-06 mar. 17:30-19:00>
+* Emacs workshop in Paris (online)
+  :PROPERTIES:
+  :LOCATION: Inno3 - salle Snowden
+  :CATEGORY: emacs-paris-meetups
+  :TIMEZONE: Europe/Paris
+  :DESCRIPTION: Se retrouver IRL pour parler Emacs
+  :END:
+  <2023-07-06 jeu. 17:30-19:00>
