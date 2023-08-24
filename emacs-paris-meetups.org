@@ -1,64 +1,29 @@
-* DONE Emacs workshop in Paris (hybrid)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2022-12-06 mar. 18:00-22:00>
-* DONE Emacs workshop in Paris à Inno3
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-01-05 jeu. 18:15-21:45>
-* DONE Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-02-07 mar. 17:30-19:00>
-* DONE Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-03-02 jeu. 17:30-19:00>
-* DONE Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-04-04 mar. 17:30-19:00>
-* DONE Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-05-04 jeu. 17:30-19:00>
 * Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-06-06 mar. 17:30-19:00>
+  SCHEDULED: <2023-09-07 jeu. 17:30-19:00>
+
 * Emacs workshop in Paris (online)
-  :PROPERTIES:
-  :LOCATION: Inno3 - salle Snowden
-  :CATEGORY: emacs-paris-meetups
-  :TIMEZONE: Europe/Paris
-  :DESCRIPTION: Se retrouver IRL pour parler Emacs
-  :END:
-  <2023-07-06 jeu. 17:30-19:00>
+  SCHEDULED: <2023-10-03 mar. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2023-11-02 jeu. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2023-12-05 mar. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2024-01-04 jeu. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2024-02-06 mar. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2024-03-07 jeu. 17:30-19:00>
+
+* Emacs workshop in Paris (online)
+  SCHEDULED: <2024-04-02 mar. 17:30-19:00>
+
+
+
+
+
+

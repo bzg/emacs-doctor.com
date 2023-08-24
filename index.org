@@ -18,8 +18,14 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : mardi 6 juin 2023 de 17h30 à 19h
-- Paris : jeudi 6 juillet 2023 de 17h30 à 19h
+- Paris : jeudi 7 septembre 2023 de 17h30 à 19h
+- Paris : mardi 3 octobre 2023 de 17h30 à 19h
+- Paris : jeudi 2 novembre 2023 de 17h30 à 19h
+- Paris : mardi 5 décembre 2023 de 17h30 à 19h
+- Paris : jeudi 4 janvier 2024 de 17h30 à 19h
+- Paris : mardi 6 févier 2024 de 17h30 à 19h
+- Paris : jeudi 7 mars 2024 de 17h30 à 19h
+- Paris : mardi 2 avril 2024 de 17h30 à 19h
 
 Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]].
 
