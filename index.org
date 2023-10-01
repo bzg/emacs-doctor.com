@@ -18,8 +18,7 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : jeudi 7 septembre 2023 de 17h30 à 19h (à distance via l'instance BigBlueButton indiquée ci-dessous et en présentiel chez [[https://april.org][l'April]] au 44/46 rue de l'Ouest (cour intérieure) Bâtiment 8, 75014 Paris, [[https://www.openstreetmap.org/export/embed.html?bbox=2.318026721477509%2C48.83606581491022%2C2.320424616336823%2C48.837485234375855&layer=mapnik&marker=48.836775529670504%2C2.3192256689071655][plan]], [[https://www.april.org/reglement-interieur#Code_de_conduite][code de conduite de l'April]], accueil à partir de 17h15)
-- Paris : mardi 3 octobre 2023 de 17h30 à 19h
+- Paris : mardi 3 octobre 2023 de 17h30 à 19h (à distance via l'instance BigBlueButton indiquée ci-dessous)
 - Paris : jeudi 2 novembre 2023 de 17h30 à 19h
 - Paris : mardi 5 décembre 2023 de 17h30 à 19h
 - Paris : jeudi 4 janvier 2024 de 17h30 à 19h
