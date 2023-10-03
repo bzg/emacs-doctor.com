@@ -18,7 +18,7 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : mardi 3 octobre 2023 de 17h30 à 19h (à distance via l'instance BigBlueButton indiquée ci-dessous)
+- Paris : mardi 3 octobre 2023 à 18h chez [[https://osm.org/go/0BPIgMprJ?m=&node=689143609][OCTO Technologies]] et via l'instance BigBlueButton
 - Paris : jeudi 2 novembre 2023 de 17h30 à 19h
 - Paris : mardi 5 décembre 2023 de 17h30 à 19h
 - Paris : jeudi 4 janvier 2024 de 17h30 à 19h
