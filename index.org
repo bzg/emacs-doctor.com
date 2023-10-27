@@ -19,7 +19,7 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 * Prochaines rencontres
 
 - Paris : jeudi 2 novembre 2023 de 18h00 à 22h, chez Inno3 ([[http://www.openstreetmap.org/#map=16/48.8818/2.3514][plan]])
-- Paris : mardi 5 décembre 2023 de 17h30 à 19h
+- Paris : mardi 5 décembre 2023 de 17h30 à 19h, chez Octo ([[https://osm.org/go/0BPIgMrGE?node=9115352589][plan]])
 - Paris : jeudi 4 janvier 2024 de 17h30 à 19h
 - Paris : mardi 6 févier 2024 de 17h30 à 19h
 - Paris : jeudi 7 mars 2024 de 17h30 à 19h

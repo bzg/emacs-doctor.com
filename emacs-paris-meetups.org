@@ -1,23 +1,35 @@
 * Emacs workshop in Paris (Inno3)
   SCHEDULED: <2023-11-02 jeu. 18:00-22:00>
+  :PROPERTIES:
+  :ID:       f421a40c-ce59-4aab-91ee-5f12d22299fa
+  :END:
 
-* Emacs workshop in Paris (online)
+* Emacs workshop in Paris (Octo)
   SCHEDULED: <2023-12-05 mar. 17:30-19:00>
+  :PROPERTIES:
+  :ID:       689f6469-4b18-4d80-a123-786170972ab7
+  :END:
 
 * Emacs workshop in Paris (online)
   SCHEDULED: <2024-01-04 jeu. 17:30-19:00>
+  :PROPERTIES:
+  :ID:       6a79fccd-2f5a-4aac-b7a3-c50923ffda12
+  :END:
 
 * Emacs workshop in Paris (online)
   SCHEDULED: <2024-02-06 mar. 17:30-19:00>
+  :PROPERTIES:
+  :ID:       d9132ab1-33f7-44c9-bafc-f0b4cbde1a61
+  :END:
 
 * Emacs workshop in Paris (online)
   SCHEDULED: <2024-03-07 jeu. 17:30-19:00>
+  :PROPERTIES:
+  :ID:       2289a081-c68e-49c4-b2e3-8c20f5e1c03a
+  :END:
 
 * Emacs workshop in Paris (online)
   SCHEDULED: <2024-04-02 mar. 17:30-19:00>
-
-
-
-
-
-
+  :PROPERTIES:
+  :ID:       45d6ee54-e878-4b2a-a781-07f6ee2f8a18
+  :END:
