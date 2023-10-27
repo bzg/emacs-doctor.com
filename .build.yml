@@ -9,7 +9,7 @@ secrets:
 tasks:
   - install: |
       cd emacs-doctor.com
-      ./publish.sh
+      emacs --script publish.el
   - upload: |
       rsync -e "ssh -o StrictHostKeyChecking=no" -av emacs-doctor.com/* bzg.fr:/home/build/emacs-doctor.com/
 triggers:

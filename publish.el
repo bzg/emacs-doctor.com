@@ -1,6 +1,4 @@
-#!/usr/bin/env sh
-
-":"; exec emacs --quick --script "$0" -- "$@" # -*- mode: emacs-lisp; lexical-binding: t; -*-
+(require 'ox-icalendar)
 
 (message "[exporting] emacs-paris-meetups.org to emacs-paris-meetups.ics")
 (with-current-buffer (find-file "emacs-paris-meetups.org")
