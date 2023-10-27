@@ -1,15 +1,11 @@
-image: debian/unstable
+image: debian/stable
 packages:
-  - emacs
   - rsync
 sources:
   - https://git.sr.ht/~bzg/emacs-doctor.com
 secrets:
   - 7a38e4c8-2b08-446e-a478-2a114a50db86
 tasks:
-  - install: |
-      cd emacs-doctor.com
-      emacs --script publish.el
   - upload: |
       rsync -e "ssh -o StrictHostKeyChecking=no" -av emacs-doctor.com/* bzg.fr:/home/build/emacs-doctor.com/
 triggers:
