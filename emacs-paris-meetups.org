@@ -5,7 +5,7 @@
   :END:
 
 * Emacs workshop in Paris (Octo)
-  SCHEDULED: <2023-12-05 mar. 17:30-19:00>
+  SCHEDULED: <2023-12-05 mar. 18:00-22:20>
   :PROPERTIES:
   :ID:       689f6469-4b18-4d80-a123-786170972ab7
   :END:
