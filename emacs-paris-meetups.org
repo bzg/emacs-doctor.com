@@ -1,9 +1,3 @@
-* Emacs workshop in Paris (Inno3)
-  SCHEDULED: <2023-11-02 jeu. 18:00-22:00>
-  :PROPERTIES:
-  :ID:       f421a40c-ce59-4aab-91ee-5f12d22299fa
-  :END:
-
 * Emacs workshop in Paris (Octo)
   SCHEDULED: <2023-12-05 mar. 18:30-21:30>
   :PROPERTIES:
