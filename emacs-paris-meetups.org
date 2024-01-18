@@ -1,5 +1,5 @@
-* Emacs workshop in Paris (online)
-  SCHEDULED: <2024-02-06 mar. 17:30-19:00>
+* Emacs workshop in Paris (IRL - Octo)
+  SCHEDULED: <2024-02-06 mar. 18:00-21:00>
   :PROPERTIES:
   :ID:       d9132ab1-33f7-44c9-bafc-f0b4cbde1a61
   :END:
