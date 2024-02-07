@@ -18,11 +18,12 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : mardi 6 févier 2024 de 18h à 21h à Octo, 34 avenue de l'Opéra, Paris
 - Paris : jeudi 7 mars 2024 de 17h30 à 19h
 - Paris : mardi 2 avril 2024 de 17h30 à 19h
+- Paris : jeudi 2 mai 2024 de 17h30 à 19h
+- Paris : mardi 4 juin 2024 de 17h30 à 19h
 
-Les rencontres ont lieu sur [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance de BigBlueButton]].
+Les rencontres en ligne ont lieu via [[https://meet.jit.si/EmacsParis022023][ce lien jit.si]] ou [[https://bbb.emacsverse.org/b/leo-mqk-ncb-tbr][cette instance BigBlueButton]].
 
 Vous pouvez télécharger le [[./emacs-paris-meetups.ics][fichier .ics avec les rendez-vous]].
 
