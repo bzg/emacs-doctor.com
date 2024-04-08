@@ -1,16 +1,4 @@
 * Emacs workshop in Paris (online)
-  SCHEDULED: <2024-03-07 jeu. 17:30-19:00>
-  :PROPERTIES:
-  :ID:       2289a081-c68e-49c4-b2e3-8c20f5e1c03a
-  :END:
-
-* Emacs workshop in Paris (online)
-  SCHEDULED: <2024-04-02 mar. 17:30-19:00>
-  :PROPERTIES:
-  :ID:       45d6ee54-e878-4b2a-a781-07f6ee2f8a18
-  :END:
-
-* Emacs workshop in Paris (online)
   SCHEDULED: <2024-05-02 jeu. 17:30-19:00>
   :PROPERTIES:
   :ID:       808e3299-f8b6-4ecc-8145-e53d849def2d
