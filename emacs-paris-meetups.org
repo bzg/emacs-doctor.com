@@ -1,4 +1,4 @@
-* Emacs workshop in Paris (online)
+* Emacs workshop in Paris (IRL, Inno3)
   SCHEDULED: <2024-10-03 jeu. 17:30-19:00>
   :PROPERTIES:
   :ID:       a4201a4a-b722-468b-9002-d462981138b8
