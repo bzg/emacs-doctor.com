@@ -18,7 +18,7 @@ Nous avons aussi un [[https://emacs.gnu.re][forum]], n'hésitez pas à échanger
 
 * Prochaines rencontres
 
-- Paris : jeudi 5 décembre 2024 en ligne à 17h30
+- Paris : mercredi 8 janvier 2025 en ligne à 17h30
 
 Les rencontres en ligne ont lieu via [[https://meet.jit.si/EmacsParis022023][ce lien jit.si]].
 

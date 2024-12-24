@@ -1,7 +1,7 @@
 * Emacs workshop in Paris (online)
-  SCHEDULED: <2024-12-05 jeu. 17:30-19:00>
+  SCHEDULED: <2025-01-08 mer. 17:30-19:00>
   :PROPERTIES:
-  :ID:       cbf83510-50ba-4d70-9ca5-89adb8511e27
+  :ID:       b449d4df-b851-4e4b-ac8f-d3e605fbc6bd
   :END:
 
 
